@@ -1,0 +1,188 @@
+@media only screen and (max-width : 2500px) {
+	.page-wrapper{
+		overflow:hidden;
+	}
+	
+}
+@media only screen and (max-width: 992px) {
+	.main-area .abh_home_img{
+		margin-left:-70px;
+	}
+}
+@media only screen and (max-width: 991px) {
+	body{font-size: 14px;}
+	
+	.main-area .abh_home_img{
+		margin-left:-70px;
+	}
+	
+	.main-area .abh-home-details h3{
+		margin: 15px 0 20px;
+	}
+	.home .abh-home-details{
+		margin-top:25px;
+	}
+	.nav-fill .nav-item{
+		font-size: 15px;
+	}
+	#about .about-content .about-single-content h2{
+		font-weight:700;
+	}
+	#about .about-content .about-single-content .single-award h4{
+		line-height: 28px;
+	}
+	#about .abh-resume-box h5{
+		font-size: 13px;
+	}
+	
+	#about .about-content .about-single-content p {
+		font-size: 14px;
+		line-height: 22px;
+	}
+	.about-single-content h2 {
+		font-size: 26px;
+		line-height: 0px;
+	}
+	.counter{
+		margin-bottom:30px;
+	}
+	.pricingTable{
+		margin-bottom:30px;
+	}
+	.contact-details{
+		margin-bottom:30px;
+	}
+
+	.post-slide{
+		margin-bottom:30px;
+	}
+
+
+}
+@media (max-width: 767px) {
+	.main-area .abh_home_img{
+		display:block;
+	}
+	.home .abh-home-details {
+		margin-top:25px;
+	}
+	.main-area .abh-home-details p{
+		font-size: 14px;
+	}
+	.main-area .abh-home-details h2{
+		font-size: 20px;
+	}
+	.main-area .abh-home-details h3 span{
+		font-size: 13px;
+	}
+	.section-title h2{
+		font-size: 35px;
+	}
+	.about .abh-about-list li{
+		padding-bottom: 4px;
+	}
+	#portfolio .portfolio-list .nav {
+		display: block;
+		text-align: center;
+	}
+	#portfolio .portfolio-list .nav li {
+		float: none;
+		display: inline-block;
+		padding: 7px 13px;
+		margin: 6px 12px;
+	}
+	#blog .post-slide img{
+		width:100%;
+	}
+	.contact-form{
+		margin-top:30px;
+	}
+	footer{
+		text-align:center;
+	}
+	.abh-banner-icon{
+		margin-top:25px;
+	}
+		
+	
+	
+}
+
+@media (max-width: 576px) {
+	.navbar-nav {
+		margin-top: 8px;
+	} 
+	.navbar-b.navbar-trans .nav-item, .navbar-b.navbar-reduce .nav-item {
+		position: relative;
+		padding-right: 10px;
+		padding-left: 0;
+		margin-top: 7px;
+	}
+	.main-area .abh-home-details h2{
+		font-size: 20px;
+	}
+	.main-area .abh-home-details h3 span{
+		font-size: 13px;
+	}
+	.home .abh-home-details {
+		margin-top:25px;
+	}
+	.section-title h2{
+		font-size: 28px;
+	}
+	.about .abh-about-list li{
+		padding-bottom: 4px;
+	}
+	.main-area .abh-home-details p{
+		font-size: 14px;
+	}
+	#portfolio .portfolio-list .nav {
+		display: block;
+		text-align: center;
+	}
+	#portfolio .portfolio-list .nav li {
+		float: none;
+		display: inline-block;
+		padding: 7px 13px;
+		font-size: 16px;
+	}
+	footer{
+		text-align:center;
+	}
+	.abh-banner-icon{
+		margin-top:25px;
+	}
+}
+
+@media screen and (max-width: 320px) and (min-width: 0px){
+	.navbar-nav {
+		margin-top: 8px;
+	}
+	.navbar-b.navbar-trans .nav-item, .navbar-b.navbar-reduce .nav-item {
+		position: relative;
+		padding-right: 10px;
+		padding-left: 0;
+		margin-top: 7px;
+	}
+	.section-title h2{
+		font-size: 24px;
+	}
+	#portfolio .portfolio-list .nav li {
+		float: none;
+		display: inline-block;
+		padding: 7px 8px;
+	}
+	footer{
+		text-align:center;
+	}
+	.abh-banner-icon{
+		margin-top:25px;
+	}
+
+
+}
+
+
+
+
+
